@@ -46,6 +46,18 @@ h1 > span {
     padding: 7px;
     box-sizing: border-box;
 }
+a {
+    text-decoration: none;
+}
+.course:hover {
+    width: 200px;
+    height: 100%;
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 7px;
+    box-sizing: border-box;
+}
 .course-img {
     border-radius: 10px;
     width: 100%;
