@@ -32,7 +32,6 @@ h1 > span {
     width: 500px;
     height: 500px;
     border-radius: 50%;
-    /* background-color: rgba(197, 204, 240, 0.2); */
     background-color: rgba(236, 230, 246, 0.5);
     padding: 80px;
     box-sizing: border-box;
